@@ -1,6 +1,6 @@
 # 🌐 おーととらんすれーたー (Auto 3 Translator)
 
-[![Version](https://img.shields.io/badge/version-v1.2.0-blue.svg)](https://github.com/auto3333333333/auto3translator/releases/latest)
+[![Version](https://img.shields.io/badge/version-v1.3.0-blue.svg)](https://github.com/auto3333333333/auto3translator/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-lightgrey.svg)]()
 
 選択したテキストをショートカットキー一発で自動コピーし、Google翻訳経由で翻訳して元のテキストと瞬時に置き換える、Windows向けの超軽量・高速バックグラウンド自動翻訳ツールです。
